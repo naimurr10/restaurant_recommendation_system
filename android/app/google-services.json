@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056030557839",
+    "project_id": "restaurant-system-b5c3d",
+    "storage_bucket": "restaurant-system-b5c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056030557839:android:38cbdd741ed745829dd2fa",
+        "android_client_info": {
+          "package_name": "com.restora.restaurant_recommendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056030557839-1bb497ibfj2kittbna0euv7noq0f7om0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rzfKAHeIwHXxnLhhN5rJ_0TiVbROe2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056030557839-1bb497ibfj2kittbna0euv7noq0f7om0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
